@@ -1,0 +1,66 @@
+question,answer
+hello,Hello! Welcome to our support service. How can I assist you today?
+hi,Hi there! I'm your virtual assistant. What can I do for you?
+help,I'm here to help! Please tell me what you need assistance with.
+what are your hours,We're available 24/7 to assist you with any questions or issues.
+how do I reset my password,You can reset your password by clicking on 'Forgot Password' on the login page and following the instructions.
+where can I find my account settings,Your account settings can be accessed by clicking on your profile picture in the top right corner and selecting 'Settings'.
+do you have a mobile app,Yes! We have mobile apps available for both iOS and Android. You can download them from the App Store or Google Play Store.
+how do I contact support,You can contact our support team by emailing support@example.com or using the live chat feature on our website.
+what payment methods do you accept,We accept all major credit cards, PayPal, and bank transfers.
+can I cancel my subscription,Yes, you can cancel your subscription at any time from the 'Billing' section in your account settings.
+how do I update my billing information,You can update your billing information in the 'Payment Methods' section of your account settings.
+is my data secure,Yes, we use industry-standard encryption and security measures to protect your data.
+what is your refund policy,We offer a 30-day money-back guarantee for all our plans. Contact support for refund requests.
+how do I upgrade my plan,You can upgrade your plan by going to the 'Billing' section and selecting 'Upgrade Plan'.
+where can I find tutorials,You can find tutorials and guides in our 'Help Center' or on our YouTube channel.
+what languages do you support,Our platform currently supports English, Spanish, French, and German with more languages coming soon.
+how do I delete my account,You can delete your account in the 'Account Settings' under the 'Privacy' tab. Be aware this action is irreversible.
+what browsers are supported,We support Chrome, Firefox, Safari, Edge, and Opera in their latest versions.
+why is my account locked,Accounts may be locked after multiple failed login attempts. You can unlock it by resetting your password.
+how do I change my email,You can update your email address in the 'Profile' section of your account settings.
+where is my invoice,All invoices are available in the 'Billing History' section of your account.
+can I get a receipt,Yes, receipts for all transactions are available in your 'Billing History'.
+how do I download my data,You can request a data export from the 'Privacy' tab in your account settings.
+what's your privacy policy,Our complete privacy policy is available at example.com/privacy
+do you offer discounts,We occasionally run promotions. Check our website or subscribe to our newsletter for updates.
+how do I unsubscribe from emails,You can manage email preferences in the 'Notifications' section of your account.
+what's two-factor authentication,It's an extra security layer requiring both password and a verification code to log in.
+how do I enable 2FA,You can set up two-factor authentication in the 'Security' section of your account.
+I forgot my username,You can recover your username by clicking 'Forgot Username' on the login page.
+can I share my account,Account sharing violates our terms of service. Each user needs their own account.
+how do I report a bug,Please email bugs@example.com with details about the issue you encountered.
+where are your servers located,Our servers are located in secure data centers across North America and Europe.
+what's your uptime guarantee,We guarantee 99.9% uptime for all our premium services.
+how do I request a feature,You can submit feature requests at feedback.example.com
+are there any hidden fees,No, all pricing is transparent with no hidden fees or charges.
+can I get a demo,Yes! Schedule a demo with our sales team at demo.example.com
+do you offer API access,Yes, API documentation is available for developers at api.example.com
+how do I integrate with Slack,Integration guides for Slack are available in our Developer Documentation.
+what's your cancellation policy,You can cancel anytime with no cancellation fees.
+how do I transfer ownership,Account ownership transfers can be initiated from the 'Team Management' section.
+where are your offices located,Our headquarters are in San Francisco with offices in New York and London.
+do you have an affiliate program,Yes! Learn about our affiliate program at partners.example.com
+how do I become a partner,Visit partners.example.com to apply for our partner program.
+what industries do you serve,We serve businesses across retail, healthcare, finance, education, and more.
+do you offer white-label solutions,Yes, contact sales@example.com for white-label options.
+how do I check my usage,Usage statistics are available in the 'Analytics' dashboard.
+what's included in the free plan,The free plan includes basic features with limited usage. See pricing for details.
+how do I add team members,You can add team members from the 'Team Management' section.
+can I customize the dashboard,Yes, dashboard customization options are available for all paid plans.
+how do I set up notifications,Notification preferences can be configured in the 'Notifications' settings.
+what integrations do you offer,We integrate with Slack, Zapier, Salesforce, and many others. See integrations page.
+how do I export reports,Reports can be exported in CSV, PDF, or Excel formats from the Analytics section.
+is there a desktop app,Yes, desktop apps are available for Windows and Mac from our downloads page.
+how do I sync across devices,Enable cloud sync in your account settings to access data across devices.
+what's your data retention policy,We retain data according to our privacy policy, typically for 3 years unless deleted.
+how do I change my plan,You can upgrade or downgrade your plan from the 'Billing' section.
+can I pay annually,Yes, annual payment options are available with a 10% discount.
+do you offer student discounts,Yes, students get 50% off with valid .edu email verification.
+how do I verify my student status,Email student@example.com with proof of enrollment for verification.
+what's your pricing structure,We offer tiered pricing based on features and usage. See pricing page for details.
+how do I get a VAT invoice,VAT invoices are automatically generated for EU customers in the Billing section.
+can I get a dedicated account manager,Dedicated managers are available for Enterprise plans. Contact sales for details.
+how do I set up auto-renewal,Auto-renewal can be toggled in the 'Subscription' tab of Billing settings.
+what happens if I exceed limits,You'll be notified and may need to upgrade or reduce usage to continue service.
+how do I check my credit balance,Available credits are displayed in the 'Billing' section of your account.
